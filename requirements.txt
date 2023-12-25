@@ -1,5 +1,7 @@
 pandas
 flask
 numpy
+seaborn
+scikit-learn
 #-e .     
 #this will trigger setup.py
